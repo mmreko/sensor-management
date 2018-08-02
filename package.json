@@ -1,0 +1,19 @@
+{
+  "name": "sensor-management",
+  "version": "1.0.0",
+  "description": "Sensor Management Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Masha Reko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "http-status": "^1.2.0",
+    "mongodb": "^3.1.1",
+    "morgan": "^1.9.0"
+  }
+}

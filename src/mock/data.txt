@@ -1,0 +1,70 @@
+{
+	"idMember": "XXXXXXXXX",
+	"clientVersion": "de.dfki.grippenetch-develop",
+	"device": "One Plus 5",
+	"type": "location",
+	"data": 
+	{
+			"mostFrequentPostalCode": "67663",
+			"mostFrequentCity": "Kaiserslautern",
+			"mostFrequentCountry": "Germany",
+			"distanceFromMostFrequent": 10
+	}
+},
+{
+	"idMember": "XXXXXXXXX",
+	"clientVersion": "de.dfki.grippenetch-develop",
+	"device": "Samsung Galaxy S8",
+	"type": "location",
+	"data":
+	{
+		"mostFrequentPostalCode": "67663",
+		"mostFrequentCity": "Kaiserslautern",
+		"mostFrequentCountry": "Germany",
+		"distanceFromMostFrequent": 15
+	}
+},
+{
+	"idMember": "XXXXXXXXX",
+	"clientVersion": "de.dfki.grippenetch-develop",
+	"device": "Samsung Galaxy Note 7",
+	"type": "location",
+	"data":
+	{
+		"mostFrequentPostalCode": "80331",
+		"mostFrequentCity": "Munich",
+		"mostFrequentCountry": "Germany",
+		"distanceFromMostFrequent":
+		20
+	}
+},
+{
+	"idMember": "XXXXXXXXX",
+	"clientVersion": "de.dfki.grippenetch-develop",
+	"device": "One Plus 5",
+	"type": "stepCount",
+	"data": 
+	{
+		"count": 2000
+	}
+},
+{
+	"idMember": "XXXXXXXXX",
+	"clientVersion": "de.dfki.grippenetch-develop",
+	"device": "Samsung Galaxy S8",
+	"type": "stepCount",
+	"data":
+	{
+		"count": 2443
+	}
+},
+{
+	"idMember": "XXXXXXXXX",
+	"clientVersion": "de.dfki.grippenetch-develop",
+	"device": "Samsung Galaxy Note 7",
+	"type": "stepCount",
+	"data": 
+	{
+		"count": 1231
+	}
+}
