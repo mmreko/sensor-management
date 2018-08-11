@@ -34,8 +34,7 @@
 		"mostFrequentPostalCode": "80331",
 		"mostFrequentCity": "Munich",
 		"mostFrequentCountry": "Germany",
-		"distanceFromMostFrequent":
-		20
+		"distanceFromMostFrequent": 20
 	}
 },
 {
