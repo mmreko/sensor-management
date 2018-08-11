@@ -5,7 +5,7 @@ const dbSettings = {
 	db: 'sensors',
 	user: 'root',
 	pass: 'rootPassXXX',
-	server: '192.168.99.104:27017',
+	server: '192.168.99.100:27018',
 	dbParameters: () => ({
 		w: 'majority',
 		wtimeout: 10000,
