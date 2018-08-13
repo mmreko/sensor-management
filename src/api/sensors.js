@@ -9,7 +9,7 @@ module.exports = (app, options) => {
 	// GET /sensors
 	app.get('/sensors', (req, res, next) => {
 		repo.getAllSensorData().then(data => {
-			console.log("API: " + data[0])
+			console.log("API: " + data[0].type)
 			res.status(status.OK).json(data)
 		}).catch(next)
 	})

@@ -25,7 +25,7 @@ const repository = (mongoclient) => {
 				if (err) {
 					reject(new Error('An error occured fetching sensor data, err:' + err))
 				}
-				console.log("Repo: " + sensorData[0])
+				console.log("Repo: " + sensorData[0].type)
 				resolve(sensorData)
 			}
 			
